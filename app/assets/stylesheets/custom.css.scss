@@ -19,7 +19,7 @@ $navbar-default-bg: #08088A;
 
 .center {
     text-align: center;
-    font-size: 12.0em;
+    font-size: 2.0em;
 }
 
 .jumbotron {
@@ -29,8 +29,8 @@ $navbar-default-bg: #08088A;
 }
 
 .jumbotron, h1 {
-    color: #FFFFFF;
-    text-align: center;
+    color: #C0C0C0;
+    text-align: left;
     margin-bottom: 30px;
     letter-spacing: -1px;
 }
@@ -38,6 +38,15 @@ $navbar-default-bg: #08088A;
 .btn-xlarge {
     font-size: 0.1em;
     background-color: black;
+}
+
+.article-actions {
+    border-top: 1px solid #eaeaea;
+    padding-top: 5px;
+}
+
+.description {
+    margin-top: 0;
 }
 
 footer {
